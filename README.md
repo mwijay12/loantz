@@ -1,14 +1,17 @@
-## loantz
-> High-tier digital infrastructure and product development by **Altraware Technologies**.
+# lims
 
-### 🚀 What is this?
-*High-tier product development and infrastructure.*
+A new Flutter project.
 
-### 🏢 Company
-Developed by the Altraware Technologies Team.
-*   **David Erick Mwijage** - Systems Architect
-*   **Clemence W. N'gunda** - Co-Founder
+## Getting Started
 
----
-### 📄 License
-This project is **proprietary** to Altraware Technologies. See [LICENSE](LICENSE) for more details.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
